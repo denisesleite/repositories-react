@@ -8,7 +8,7 @@ Para executar você deve:
 $ git clone https://github.com/denisesleite/repositories-react.git
 
 <strong>Clonar o backend desta aplicação</strong><br/>
-$git clone https://github.com/denisesleite/routes-repository.git
+$ git clone https://github.com/denisesleite/routes-repository.git
 
 <strong>Instalar suas dependências, tanto de backend quanto de frontend</strong><br/>
 $ yarn
